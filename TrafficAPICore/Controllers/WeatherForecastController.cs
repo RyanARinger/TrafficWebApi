@@ -8,7 +8,7 @@ namespace TrafficAPICore.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Smart", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Boiling"
+            "Freezing", "Bracing", "Smarts", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Boiling"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
