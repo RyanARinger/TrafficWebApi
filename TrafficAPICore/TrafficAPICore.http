@@ -1,0 +1,6 @@
+@TrafficAPICore_HostAddress = http://localhost:5282
+
+GET {{TrafficAPICore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
